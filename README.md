@@ -1,6 +1,6 @@
 <div align="center">
 <h1>arrayme</h1>
-Transforms a value into array.
+Transforms a value to an array.
 <br/><br/>
 <a href="https://travis-ci.org/fabioricali/arrayme" target="_blank"><img src="https://travis-ci.org/fabioricali/arrayme.svg?branch=master" title="Build Status"/></a>
 <a href="https://opensource.org/licenses/MIT" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" title="License: MIT"/></a>

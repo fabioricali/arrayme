@@ -1,7 +1,7 @@
 {
   "name": "arrayme",
   "version": "1.0.1",
-  "description": "Transforms a value into array",
+  "description": "Transforms a value to an array",
   "main": "index.js",
   "scripts": {
     "version:major": "npm version major",
