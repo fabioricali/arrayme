@@ -5,7 +5,7 @@
  * @returns {*}
  */
 module.exports = (value, checkNull = true) => {
-    if ((checkNull && value === null) || typeof value === 'undefined')
+    if ((checkNull && value === null) || value === undefined)
         return [];
     else
         return Array.isArray(value)
