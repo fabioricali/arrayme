@@ -1,0 +1,28 @@
+{
+  "name": "arrayme",
+  "version": "1.0.0",
+  "description": "Transforms a value into array",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabioricali/arrayme.git"
+  },
+  "keywords": [
+    "convert",
+    "array",
+    "toArray"
+  ],
+  "author": "Fabio Ricali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabioricali/arrayme/issues"
+  },
+  "homepage": "https://github.com/fabioricali/arrayme#readme",
+  "devDependencies": {
+    "bejs": "^1.14.0",
+    "mocha": "^4.0.1"
+  }
+}
