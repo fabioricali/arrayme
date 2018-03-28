@@ -1,3 +1,9 @@
+if (!Array.isArray) {
+    Array.isArray = function(arg) {
+        return Object.prototype.toString.call(arg) === '[object Array]';
+    };
+}
+
 /**
  * Transforms a value into array
  * @param value {*} value to transform
